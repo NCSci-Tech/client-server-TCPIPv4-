@@ -85,4 +85,4 @@ If the client fails to connect, ensure the server is running.
 
 Author
 
-Nicholas Connelly
+NCSci-Tech
